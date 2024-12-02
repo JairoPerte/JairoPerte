@@ -1,4 +1,4 @@
-## 🌐 Choose your language / Elige tu idioma (README)
+## 🌐 Choose your language / Elige tu idioma
 
 | [🇬🇧 English](en/README-en.md) | [🇪🇸 Español](es/README-es.md) |
 |-------------------------|-------------------------|
