@@ -1,5 +1,5 @@
 ## ¿Qué idioma hablas?/What's your language?
- - [English](#english)
+ - [English 🇬🇧](#english)
  - [Español 🇪🇸](#español)
 ---
 
