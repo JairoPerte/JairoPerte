@@ -4,6 +4,7 @@
 |-------------------------|-------------------------|
 ---
 ## 👀 Find me also here / También estoy por aquí
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jairo-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jairo-pertegal-carrasco-4b09a333a)
+[![Codewars](https://img.shields.io/badge/Codewars-JairoPerte-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/JairoPerte)
+[![X](https://img.shields.io/badge/Twitter-%23121011.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jairo-pertegal-carrasco-4b09a333a)
