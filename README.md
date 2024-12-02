@@ -3,8 +3,10 @@
  - [Español 🇪🇸](#español)
 ---
 
-# Español
+# Español 🇪🇸
 <h1>👋 Hola, ¡Soy @JairoPerte!<h1>
+<h3>Soy un Desarrollador Web</h3>
 
-# English
+# English 🇬🇧
 <h1>👋 Hello there!, Im @JairoPerte</h1>
+<h3>I'm a Web App Developer</h3>
