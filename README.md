@@ -1,6 +1,6 @@
 ## 🌐 Choose your language / Elige tu idioma
 
-| [🇬🇧 English](#https://github.com/JairoPerte/README-en) | [🇪🇸 Español](#https://github.com/JairoPerte/README-es) |
+| [🇬🇧 English](#https://github.com/JairoPerte/README-en.md) | [🇪🇸 Español](#https://github.com/JairoPerte/README-es.md) |
 |-------------------------|-------------------------|
 
 ### 🇬🇧 English
