@@ -1,6 +1,6 @@
 ## 🌐 Choose your language / Elige tu idioma (README)
 
-| [🇬🇧 English](README-en.md) | [🇪🇸 Español](README-es.md) |
+| [🇬🇧 English](en/README-en.md) | [🇪🇸 Español](es/README-es.md) |
 |-------------------------|-------------------------|
 ---
 ## 👀 Find me also here / También estoy por aquí
