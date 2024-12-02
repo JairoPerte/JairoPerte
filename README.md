@@ -1,12 +1,12 @@
 ## ¿Qué idioma hablas?/What's your language?
- - [English](#es)
- - [Español](#en)
+ - [English](#espa)
+ - [Español](#english)
 
 ---
 ---
 ---
 
-## es
+# Español
 
 ---
 ---
@@ -30,5 +30,5 @@
 ---
 ---
 
-## en
+# English
 <h1>👋 Hola, ¡Soy @JairoPerte!/ Hello there, Im @JairoPerte</h1>
